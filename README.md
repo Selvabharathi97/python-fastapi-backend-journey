@@ -8,7 +8,7 @@ Welcome to my backend development journey where I'm mastering Python and FastAPI
 | 3    | File I/O, JSON + FastAPI DB | File Handling, SQLAlchemy, SQLite/PostgreSQL|
 | 4    | Final Projects + Deployment | Portfolio APIs, CI/CD, Docker, Render       |
 
-**Tech Stack**
+**#Tech Stack**
 Language: Python 3.11+
 
 Framework: FastAPI
