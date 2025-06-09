@@ -7,3 +7,14 @@ Welcome to my backend development journey where I'm mastering Python and FastAPI
 | 2    | Python Advanced + FastAPI Pydantic | Decorators, Exceptions, Data Models  |
 | 3    | File I/O, JSON + FastAPI DB | File Handling, SQLAlchemy, SQLite/PostgreSQL|
 | 4    | Final Projects + Deployment | Portfolio APIs, CI/CD, Docker, Render       |
+
+**Tech Stack**
+Language: Python 3.11+
+
+Framework: FastAPI
+
+Server: Uvicorn
+
+ORM/DB: SQLAlchemy, SQLite/PostgreSQL
+
+Tools: PyCharm, Git, GitHub
