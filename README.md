@@ -9,6 +9,7 @@ Welcome to my backend development journey where I'm mastering Python and FastAPI
 | 4    | Final Projects + Deployment | Portfolio APIs, CI/CD, Docker, Render       |
 
 **#Tech Stack**
+
 Language: Python 3.11+
 
 Framework: FastAPI
